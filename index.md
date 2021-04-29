@@ -169,5 +169,3 @@
         </samp>
     </li>
 </ul>
-
-![Kalebu github stats](https://github-readme-stats.vercel.app/api?username=kalebu&count_private=true&show_icons=true) **|**
