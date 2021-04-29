@@ -93,11 +93,11 @@
         <p><b> Open Source </b></p>
         <p> Here couple of open source projects I maintai</p>
         <ul>
-            <li><a href = "https://github.com/Kalebu/pyswahili">Pyswahili</a> Swahili Version of Python programming language</li>
-            <li><a href="https://github.com/Kalebu/pypesa">Pypesa</a> Python package to easy integration with Mpesa API</li>
-            <li><a href="https://github.com/Kalebu/pysimilar">Pysimilar</a> A light python library for computing similarities on texts based on cosine similarity</li>
-            <li><a href="https://github.com/Kalebu/Nida">Nida</a> un-official Python library for loading user informations based on National ID number(Tanzania)</li>
-            <li><a href="https://github.com/Kalebu/mtaa">Mtaa</a> Python package with all Tanzania locations from regions to streets</li>
+            <li><a href = "https://kalebu.github.io/pyswahili">Pyswahili</a> Swahili Version of Python programming language</li>
+            <li><a href="https://kalebu.github.io/pypesa">Pypesa</a> Python package to easy integration with Mpesa API</li>
+            <li><a href="https://kalebu.github.io/pysimilar">Pysimilar</a> A light python library for computing similarities on texts based on cosine similarity</li>
+            <li><a href="https://kalebu.github.io/Nida">Nida</a> un-official Python library for loading user informations based on National ID number(Tanzania)</li>
+            <li><a href="https://kalebu.github.io/mtaa">Mtaa</a> Python package with all Tanzania locations from regions to streets</li>
             <li><a href="https://github.com/nextsms/nextsms">NextSMS</a> Python package to easy integration with nextsms SMS AP</li>
             <li><a href="https://github.com/beem-africa/python-client">BeemAfrica</a> A Python library to ease the integration with the Beem Africa (SMS, AIRTIME, OTP, 2WAY-SMS, BPAY, USSD)</li>
         </ul>
