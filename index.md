@@ -163,6 +163,3 @@
                 <a href = "https://web.facebook.com/kalebu.jordan">facebook</a> 
             </li>
         </ul>
-        </samp>
-    </li>
-</ul>
