@@ -1,4 +1,4 @@
-<p>Hi there I'm <b>Kalebu Jordan</b</p>
+<p>Hi there I'm <b>Kalebu Jordan</b></p>
 
 <p><b>Mechatronics Engineer</b> and a <b>Pro Python Developer</b> with expertise expertise in building (Web|Mobile) Backends, DataScience solutions, IoT Architectures, Microservices and DevOp</p>
 
@@ -7,14 +7,14 @@
 <h3>My Tech stac</h3>
 <ul>
     <li>
-        <p><b>languages</b</p>
+        <p><b>languages</b></p>
         <ul>
             <li>Python | Javascript | Rust | C/C++ | Arduino</li>
             <li>Html | Css | Yaml | Jso</li>
         </ul>
     </li>
     <li>
-        <p><b>Frameworks & Tools</b</p>
+        <p><b>Frameworks & Tools</b></p>
         <ul>
             <li>
                <p>Web Framework</p>
@@ -90,7 +90,7 @@
         </ul>
     </li>
     <li>
-        <p><b> Open Source </b</p>
+        <p><b> Open Source </b></p>
         <p> Here couple of open source projects I maintai</p>
         <ul>
             <li><a href = "https://github.com/Kalebu/pyswahili">Pyswahili</a> Swahili Version of Python programming language</li>
@@ -99,11 +99,11 @@
             <li><a href="https://github.com/Kalebu/Nida">Nida</a> un-official Python library for loading user informations based on National ID number(Tanzania)</li>
             <li><a href="https://github.com/Kalebu/mtaa">Mtaa</a> Python package with all Tanzania locations from regions to streets</li>
             <li><a href="https://github.com/nextsms/nextsms">NextSMS</a> Python package to easy integration with nextsms SMS AP</li>
-            <li><a href="https://github.com/beem-africa/python-client">BeemAfrica </a>A Python library to ease the integration with the Beem Africa (SMS, AIRTIME, OTP, 2WAY-SMS, BPAY, USSD)
+            <li><a href="https://github.com/beem-africa/python-client">BeemAfrica</a> A Python library to ease the integration with the Beem Africa (SMS, AIRTIME, OTP, 2WAY-SMS, BPAY, USSD)</li>
         </ul>
     </li>
     <li>
-        <p><b> Works </b</p>
+        <p><b> Works </b></p>
         <p>These are some of companies with my fingerprint</p>
         <ul>
             <li>
@@ -114,7 +114,7 @@
         </ul>
     </li>
     <li>
-        <p><b>Blog And Articles</b</p>
+        <p><b>Blog And Articles</b></p>
         <p>Sometimes I write technical articles & tutorials on these platform</p>
         <ul>
             <li>
@@ -127,14 +127,14 @@
         </ul>
     </li>
     <li>
-        <p><b> Talks  </b</p>
-        <p> Wanna invite me to talk/conference, Please email at <b>isaackeinstein(at)gmail.com</b</p>
+        <p><b> Talks  </b></p>
+        <p> Wanna invite me to talk/conference, Please email at <b>isaackeinstein(at)gmail.com</b></p>
         <ul>
             <li><a href = "https://medium.com/dive-into-python-3/interview-with-kalebu-jordan-diving-into-python-3-cb9498bdf798"> Dive into Python (2020) </a></li>
             <li><a href="https://www.youtube.com/watch?v=7BqeN--xHzY"> Pycon Tanzania 2020 (Python for Embedded & IoT)</a></li>
         </ul>
     <li>
-        <p><b> Hobbies </b</p>
+        <p><b> Hobbies </b></p>
         <ul>
             <li>Movies (Ex-Machina | WestWorlds | Devs | Mr Robot | Salvation | See)</li>
             <li>Music (Gospel(Hillsong ..), Hiphop(NF, Kendric, Jcole..)...)</li>
@@ -144,7 +144,7 @@
         </ul>
     </li>
     <li>
-        <p><b>How to reach me !! <b><p>
+        <p><b>How to reach me !!</b></p>
         <ul>
             <li>
                <a href = "#">isaackeinstein(at)gmail.com</a> | 
