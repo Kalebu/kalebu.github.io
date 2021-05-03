@@ -102,7 +102,6 @@
             <li><a href="https://github.com/beem-africa/python-client">BeemAfrica</a> A Python library to ease the integration with the Beem Africa (SMS, AIRTIME, OTP, 2WAY-SMS, BPAY, USSD)</li>
             <li><a href="https://kalebu.github.io/tigopesa">Tigopesa </a>Python package to ease the Tigo Pesa API integration</li>
         </ul>
-        </ul>
     </li>
     <li>
         <p><b> Works </b></p>
