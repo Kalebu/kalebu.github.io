@@ -1,6 +1,6 @@
 <p>Hi there I'm <b>Kalebu Jordan</b></p>
 
-<p><b>Mechatronics Engineer</b> and a <b>Pro Python Developer</b> with expertise expertise in building (Web|Mobile) Backends, DataScience solutions, IoT Architectures, Microservices and DevOp</p>
+<p><b>Mechatronics Engineer</b> and a <b>Pro Python Developer</b> with expertise in building (Web|Mobile) Backends, DataScience solutions, IoT Architectures, Microservices and DevOp</p>
 
 [![Become a patron](become_a_patron_button.png)](https://www.patreon.com/kalebujordan)
 
@@ -19,27 +19,27 @@
             <li>
                <p>Web Framework</p>
                <ul>
-                   <li>Flask | FastAPI | Sanic | Django | Tornado | Expres</li>
+                   <li>Flask | FastAPI | Sanic | Django | Tornado | Express</li>
                </ul>
             <li>
-               <p>Data Science (ML/AI</p>
+               <p>Data Science (ML/AI)</p>
                <ul>
-                   <li>Sklearn | PyTorch | Tensorflo</li>
+                   <li>Sklearn | PyTorch | Tensorflow</li>
                </ul>
             </li>
             <li>
                <p> Databases & Storang</p>
                <ul>
-                   <li> Sqlite | Mysql | MariaDB | Amazon Auor</li>
+                   <li> Sqlite | Mysql | MariaDB | Amazon Auoro</li>
                    <li>MongoDB | Firestore | Amazon DocumentDB</li>
-                   <li> DynamoDB | S3 | Kinesis |  Redi</li>
+                   <li> DynamoDB | S3 | Kinesis |  Redis</li>
                </ul>
                </li>
             <li>
                <p>Serverles</p>
                <ul>
-                   <li> Aws Lambda | Aws Sam | Aws API Gatewa</li>
-                   <li> Google Cloud ru</li>
+                   <li> Aws Lambda | Aws Sam | Aws API Gateway</li>
+                   <li> Google Cloud run</li>
                </ul>
                </li>
             <li>
@@ -47,7 +47,7 @@
                <ul>
                    <li>Aws IoT Core | Aws Greengrass | Aws FreeRTO</li>
                    <li>socketserver | Paho</li>
-                   <li> Raspberry Pi | NodeMCU | Arduin</li>
+                   <li> Raspberry Pi | NodeMCU | Arduino</li>
                </ul>
             </li>
         <li>
@@ -91,7 +91,7 @@
     </li>
     <li>
         <p><b> Open Source </b></p>
-        <p> Here couple of open source projects I maintai</p>
+        <p> Here couple of open source projects I maintain</p>
         <ul>
             <li><a href = "https://kalebu.github.io/pyswahili">Pyswahili</a> Swahili Version of Python programming language</li>
             <li><a href="https://kalebu.github.io/pypesa">Pypesa</a> Python package to easy integration with Mpesa API</li>
