@@ -22,7 +22,7 @@
                    <li>Flask | FastAPI | Sanic | Django | Tornado | Express</li>
                </ul>
             <li>
-               <p>Data Science (ML/AI</p>
+               <p>Data Science (ML/AI)</p>
                <ul>
                    <li>Sklearn | PyTorch | Tensorflow</li>
                </ul>
@@ -38,7 +38,7 @@
             <li>
                <p>Serverles</p>
                <ul>
-                   <li> Aws Lambda | Aws Sam | Aws API Gatewa</li>
+                   <li> Aws Lambda | Aws Sam | Aws API Gateway</li>
                    <li> Google Cloud ru</li>
                </ul>
                </li>
@@ -91,7 +91,7 @@
     </li>
     <li>
         <p><b> Open Source </b></p>
-        <p> Here couple of open source projects I maintai</p>
+        <p> Here couple of open source projects I maintain</p>
         <ul>
             <li><a href = "https://kalebu.github.io/pyswahili">Pyswahili</a> Swahili Version of Python programming language</li>
             <li><a href="https://kalebu.github.io/pypesa">Pypesa</a> Python package to easy integration with Mpesa API</li>
