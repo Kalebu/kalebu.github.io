@@ -30,7 +30,7 @@
             <li>
                <p> Databases & Storang</p>
                <ul>
-                   <li> Sqlite | Mysql | MariaDB | Amazon Auorofz</li>
+                   <li> Sqlite | Mysql | MariaDB | Amazon Auoro</li>
                    <li>MongoDB | Firestore | Amazon DocumentDB</li>
                    <li> DynamoDB | S3 | Kinesis |  Redis</li>
                </ul>
@@ -39,7 +39,7 @@
                <p>Serverles</p>
                <ul>
                    <li> Aws Lambda | Aws Sam | Aws API Gateway</li>
-                   <li> Google Cloud ru</li>
+                   <li> Google Cloud run</li>
                </ul>
                </li>
             <li>
